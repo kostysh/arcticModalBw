@@ -7,7 +7,7 @@
    },
    "main":[
       "arcticmodal/jquery.arcticmodal.css",
-      "arcticmodal/jquery.arcticmodal.js",
+      "arcticmodal/jquery.arcticmodal.min.js",
       "arcticmodal/loading.gif"
    ],
    "description":"jQuery plugin for modal boxes development",
